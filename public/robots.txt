@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sarkarinaukri-12thscience.pages.dev/sitemap.xml
